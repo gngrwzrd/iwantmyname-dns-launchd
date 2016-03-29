@@ -6,7 +6,7 @@
     <string>iwantmyname-dns-launchd.plist</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/path/to/badger-dns.sh</string>
+        <string>/path/to/iwantmyname-dns.sh</string>
         <string>USER</string>
         <string>PASS</string>
         <string>DOMAINS</string>
